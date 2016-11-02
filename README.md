@@ -2,9 +2,9 @@
 https://developers.google.com/protocol-buffers/docs/proto
 https://developers.google.com/protocol-buffers/docs/reference/java-generated
 
-C:\Users\Sales-PC>protoc -I=C:/protoc/protobuf --java_out=C:/protoc/protobuf/java C:/protoc/protobuf/*.proto
+C:\Admin>protoc -I=C:/protoc/protobuf --java_out=C:/protoc/protobuf/java C:/protoc/protobuf/*.proto
 
-C:\Users\Sales-PC>
+C:\Admin>
 
 folder structure:
 =================
