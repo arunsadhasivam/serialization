@@ -9,6 +9,7 @@ C:\Users\Sales-PC>
 folder structure:
 =================
 
-C:\protoc\protobuf\<<all proto files>>
+C:\protoc\protobuf\- all .proto files created newly 
+acts as source
 
 C:\protoc\protobuf\java - empty java folder destination dir
