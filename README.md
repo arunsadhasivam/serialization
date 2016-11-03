@@ -14,3 +14,5 @@ acts as source
 i.e C:\protoc\protobuf\ contains all proto files manually created message.
 
 C:\protoc\protobuf\java - empty java folder destination dir
+
+once run the above command it generate java file to C:\protoc\protobuf\java
